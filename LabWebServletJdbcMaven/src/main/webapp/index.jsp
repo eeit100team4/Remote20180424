@@ -14,11 +14,8 @@
 <h3><a href="<c:url value="/secure/login.jsp" />">Login</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">Poduct</a></h3>
 <h3><a href="<c:url value="/pages/product.jsp" />">新增測試</a></h3>
-<<<<<<< HEAD
 <h3><a href="<c:url value="Clock" />">現在時間</a></h3>
-=======
 <h3><a href="<c:url value="FirstServlet" />">SERVLET</a></h3>
->>>>>>> refs/heads/BranchTest
 
 </body>
 </html>
